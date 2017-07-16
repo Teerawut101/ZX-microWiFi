@@ -1,0 +1,22 @@
+#######################################
+# Syntax Coloring Map For GP20U7
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ZX_microWiFi	KEYWORD1	ZX_microWiFi
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+getMsg	KEYWORD2
+feed	KEYWORD2
+chat	KEYWORD2
+notify	KEYWORD2
+ready   KEYWORD2
+#######################################
+# Constants (LITERAL1)
+#######################################
