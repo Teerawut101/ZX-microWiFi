@@ -12,6 +12,7 @@ String ZX_microWiFi::getMsg(String msg){
 }
 String ZX_microWiFi::getMsg(){
 	String msg = _msg;
+	msg.trim();
 	_msg = "";
 	return msg ;
 }
